@@ -1,2 +1,2 @@
 # varma
-practice
+practice FOR devops
